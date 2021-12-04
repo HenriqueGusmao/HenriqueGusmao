@@ -1,0 +1,23 @@
+{
+  "name": "requisicoesbasicas",
+  "version": "1.0.0",
+  "description": "Basic requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Gusmao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueGusmao/basicsRequestsAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HenriqueGusmao/basicsRequestsAPI/issues"
+  },
+  "homepage": "https://github.com/HenriqueGusmao/basicsRequestsAPI#readme"
+}
